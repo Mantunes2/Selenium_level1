@@ -4,4 +4,4 @@ PATH = "C:\Program Files (x86)\chromedriver.exe"
 
 driver = webdriver.Opera(PATH)
 
-driver.get("https://www.facebook.com")
+driver.get("Link desejável")
