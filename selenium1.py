@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-PATH = "C:\Program Files (x86)\chromedriver.exe"
+PATH = "Diretório do webdriver"
 
 driver = webdriver.Opera(PATH)
 
